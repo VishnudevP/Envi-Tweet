@@ -1,0 +1,20 @@
+.login > div > img {
+    object-fit: contain;
+    height: 150px;
+}
+
+.login > div {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.login__logo {
+    align-items: center;
+}
+
+.etLogo {
+    display: block; 
+    margin-top: auto;
+}
+
